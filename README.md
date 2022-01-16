@@ -1,7 +1,7 @@
 ## Olá! Eu sou Adalberto de Oliveira
 
-- 🔭 Em busca de Emprego como Front-end
-- 🌱 Estudando PHP
+- Técnico de Informática, Front-end Developer,Conhecimento em bubble,kodular Estudando Back-and PHP.
+
 
 <div>
   <a href="https://github.com/betowollacy">
@@ -20,7 +20,6 @@
   <img align="center" alt="Beto-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Beto-Php" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   
-  <img align="right" alt="Beto-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
 ##
