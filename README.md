@@ -1,6 +1,4 @@
-                                                                          Sejam Bem Vindos! 
- 
-  Olá Adalberto de Oliveira
+Olá Adalberto de Oliveira
 
 Técnico de Informática, Front-end Developer,Conhecimento em bubble,kodular Estudando Back-and PHP.
 
