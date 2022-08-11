@@ -1,6 +1,6 @@
 Olá sou Adalberto de Oliveira
 
-Técnico de Informática, Front-end Developer,Conhecimento em bubble,kodular Estudando Back-and PHP.
+Técnico de Informática, Front-end Developer,Conhecimento em bubble,kodular Estudando Python.
 
 
 <div>
