@@ -8,21 +8,7 @@ Técnico de Informática, Front-end Developer,Conhecimento em bubble,kodular Est
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betowollacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betowollacy&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beto-Js" height="30" width="40" src="<"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Beto-Ts" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)">
-
-
-  
-  <img align="center" alt="Beto-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Beto-Php" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  
-</div>
-  
-##
+ 
   
  <div>
   
